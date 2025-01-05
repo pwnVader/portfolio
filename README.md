@@ -4,5 +4,5 @@ Welcome to my portfolio! This repository showcases my projects, tools, and contr
 A collection of cybersecurity resources, tools, and cheat sheets that I've gathered and found useful throughout my learning journey. This repository includes quick references and guides for various tools and techniques.
 
 ### Contents
-- CheatSheets
-- Scripts and Codes
+- [CheatSheets](cybersec_resources/cheatsheets/README.md)
+- [Scripts and Codes](cybersec_resources/cheatsheets/README.md)
