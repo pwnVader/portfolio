@@ -5,4 +5,4 @@ A collection of cybersecurity resources, tools, and cheat sheets that I've gathe
 
 ### Contents
 - [CheatSheets](cybersec_resources/cheatsheets/README.md)
-- [Scripts and Codes](cybersec_resources/cheatsheets/README.md)
+- [Scripts and Codes](cybersec_resources/scripts_and_codes/README.md)
