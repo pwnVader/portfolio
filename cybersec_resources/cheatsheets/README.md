@@ -3,3 +3,7 @@ This folder contains a collection of cheat sheets for various cybersecurity tool
 ## Contents
 - [Nmap Cheat Sheet](nmap.md)
 - [Hashcat Cheat Sheet](hashcat.md)
+- [Hydra Cheat Sheet](hydra.md)
+- [Linux Cheat Sheet](linux.md)
+- [Metasploit Framework Cheat Sheet](metasploit_framework.md)
+- [Wireshark Cheat Sheet](wireshark.md)
